@@ -1,0 +1,19 @@
+{"customerFlight":
+    [
+        {
+            "customerId": 1,
+            "flightId": 1
+        },
+        {
+            "customerId": 2,
+            "flightId": 1
+        },
+        {
+            "customerId": 3,
+            "flightId": 2
+        },
+        {
+            "customerId": 4,
+            "flightId": 3
+        }
+    ]}
