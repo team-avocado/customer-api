@@ -1,0 +1,31 @@
+{"customer":
+    [
+        {
+            "customerId": 1,
+            "name": "Mairi",
+            "email": "mng@and.digital"
+        },
+        {
+            "customerId": 2,
+            "name": "Josh",
+            "email": "jsimpson@and.digital"
+        },
+        {
+            "customerId": 3,
+            "name": "Niko",
+            "email": ""
+        },
+        {
+            "customerId": 4,
+            "name": "John Smith",
+            "email": "johnsmith@gmail.com"
+        },
+        {
+            "customerId": 5,
+            "name": "Jean Jane",
+            "email": "jeanjane@gmail.com"
+        }
+
+    ]
+
+}
